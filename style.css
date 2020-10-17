@@ -16,4 +16,41 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
 
+body {
+  width: 1450px;
+  height: 1700px;
+}
 
+.travel {
+  font-size: 14px;
+  letter-spacing: 3px;
+  line-height: 40px;
+  color: #273d46;
+  font-family: "Arial";
+  text-align: center;
+}
+
+.header {
+font-size: 36px;
+line-height: 50px;
+color: #273d46;
+font-family: "Times New Roman";
+text-align: center;
+  height: 75px;
+  width: 721px;
+  position: center;
+}
+.img {
+  filter: drop-shadow(0px 15px 32.5px rgba(15, 16, 16, 0.15));
+  border: 15px solid #ffffff;
+  width: 821px;
+  height: 541px;
+}
+.div {
+  width: 750px;
+  height: 525px;
+  font-size: 24px;
+  line-height: 40px;
+  color: #273d46;
+  font-family: "Times New Roman";
+}
