@@ -19,7 +19,8 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 body {
   width: 1450px;
   height: 1700px;
-  background: url('Ellipse 1 copy.png') 142px 106px/1190px 1064px no-repeat;
+  background: url('Ellipse 1 copy.png') 142px 106px/1190px 1064px no-repeat,
+  #e8e8e8;
 }
 
 .travel {
