@@ -30,6 +30,7 @@ body {
   color: #273d46;
   font-family: "Arial";
   text-align: center;
+  margin-top: 168px
 }
 
 .header {
@@ -41,15 +42,18 @@ text-align: center;
   height: 75px;
   width: 721px;
   margin: auto;
+  
 }
-.divImg{
-  padding: 60px 289px;
-}
+/*.divImg{
+  margin: 60px auto;
+}*/
 .img {
+  display: block;
   filter: drop-shadow(0px 15px 32.5px rgba(15, 16, 16, 0.15));
   border: 15px solid #ffffff;
   width: 821px;
   height: 541px;
+  margin: 60px 289px 60px 310px;
 }
 .div {
   width: 750px;
