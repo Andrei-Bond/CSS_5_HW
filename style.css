@@ -38,13 +38,14 @@ font-family: "Times New Roman";
 text-align: center;
   height: 75px;
   width: 721px;
-  position: center;
+  margin: auto;
 }
 .img {
   filter: drop-shadow(0px 15px 32.5px rgba(15, 16, 16, 0.15));
   border: 15px solid #ffffff;
   width: 821px;
   height: 541px;
+  margin: auto;
 }
 .div {
   width: 750px;
@@ -53,4 +54,5 @@ text-align: center;
   line-height: 40px;
   color: #273d46;
   font-family: "Times New Roman";
+  margin: auto;
 }
