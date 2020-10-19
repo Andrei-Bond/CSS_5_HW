@@ -27,7 +27,7 @@ body {
   font-size: 14px;
   letter-spacing: 3px;
   line-height: 40px;
-  color: #273d46;
+  color:#8c969a;
   font-family: "Arial";
   text-align: center;
   margin-top: 168px
@@ -40,8 +40,8 @@ color: #273d46;
 font-family: "Times New Roman";
 text-align: center;
   height: 75px;
-  width: 721px;
-  margin: auto;
+  width: 725px;
+  margin: 1px auto 0 365px;
   
 }
 /*.divImg{
@@ -86,7 +86,7 @@ margin: 40px auto 0 330px;
   line-height: 36px;
   color: #273d46;
   font-family: "Arial";
-  font-weight: bold;
+  font-weight: 700;
 }
 .li4 {
   font-size: 20px;
