@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 body {
   width: 1450px;
   height: 1700px;
-  background: url('Ellipse 1 copy.png') 142px 106px/1190px 1064px no-repeat,
+  background: url('Ellipse 1 copy.png') 161px 121px/1190px 1064px no-repeat,
   #e8e8e8;
 }
 
@@ -50,10 +50,10 @@ text-align: center;
 .img {
   display: block;
   filter: drop-shadow(0px 15px 32.5px rgba(15, 16, 16, 0.15));
-  border: 15px solid #ffffff;
-  width: 821px;
-  height: 541px;
-  margin: 60px 289px 60px 310px;
+  border: 10px solid #ffffff;
+  width: 841px;
+  height: 561px;
+  margin: 89px auto 60px 308px;
 }
 .div {
   width: 736px;
