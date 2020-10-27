@@ -15,6 +15,13 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
 /*--------------------*/
+@font-face {
+  font-family: 'Cinema';
+  src: url('fonts/Zetafonts - Cinematografica ExtraBold.eot');
+  src: local('☺'), url('fonts/Zetafonts - Cinematografica ExtraBold.woff') format('woff'), url('fonts/Zetafonts - Cinematografica ExtraBold.ttf') format('truetype'), url('fonts/Zetafonts - Cinematografica ExtraBold.svg') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
 
 body {
   width: 1450px;
@@ -37,7 +44,7 @@ body {
 font-size: 36px;
 line-height: 50px;
 color: #273d46;
-font-family: "Times New Roman";
+font-family: "Henny Penny";
 text-align: center;
   height: 75px;
   width: 721px;
@@ -60,7 +67,8 @@ text-align: center;
   font-size: 24px;
   line-height: 40px;
   color: #273d46;
-  font-family: "Times New Roman";
+  font-family: "Cinema";
+  font-style: bold;
   margin: auto auto auto 334px;
 }
 ul {
